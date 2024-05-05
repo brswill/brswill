@@ -1,5 +1,4 @@
-### >>> print('Olá, mundo!')
-### Olá, mundo!
+<h1 align="center"><code>Olá, Mundo!</code></h1>
 
 
 
